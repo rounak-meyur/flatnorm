@@ -45,7 +45,7 @@ FN = FLAT_NORM = "\\mathbb{{F}}_{{\\lambda}}"
 FNN = NORMALIZED_FLAT_NORM = "\\widetilde{{\\mathbb{{F}}}}_{{\\lambda}}"
 FNNM = FNM = FLAT_NORM_MEAN = "\\widehat{{\\mathbb{{F}}}}_{{\\lambda}}"
 FNNC = FNC = FLAT_NORM_CITY = "\\widetilde{{\\mathbb{{F}}}}_{{\\lambda}}^{{\\  G}}"
-HAUS = HAUSDORFF_DISTANCE = "\\mathbb{{D}}_{{Haus}}"
+HAUS = HAUSDORFF_DISTANCE = "\\mathbb{{D}}_{{H}}"
 CITY = lambda x: f"{{\\bf {area_name[x]}}}"
 
 

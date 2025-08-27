@@ -15,8 +15,8 @@ FN = FLAT_NORM = "\\mathbb{{F}}_{{\\lambda}}"
 FNN = NORMALIZED_FLAT_NORM = "\\widetilde{{\\mathbb{{F}}}}_{{\\lambda}}"
 FNM = FLAT_NORM_MEAN = "\\widehat{{\\mathbb{{F}}}}_{{\\lambda}}"
 FNI = FLAT_NORM_INDEX = "\\widetilde{{\\mathbb{{F}}}}_{{\\lambda}}"
-HAUS = HAUSDORFF_DISTANCE = "\\mathbb{{D}}_{{Haus}}"
-HAUSM = HAUSDORFF_DISTANCE_MEAN = "\\widehat{{\\mathbb{{D}}}}_{{Haus}}"
+HAUS = HAUSDORFF_DISTANCE = "\\mathbb{{D}}_{{H}}"
+HAUSM = HAUSDORFF_DISTANCE_MEAN = "\\widehat{{\\mathbb{{D}}}}_{{H}}"
 
 workpath = os.getcwd()
 sys.path.append(workpath+'/libs/')
